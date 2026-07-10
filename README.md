@@ -7,7 +7,7 @@
 
 <!-- Badges de statut -->
 [![Profil](https://img.shields.io/badge/Épidémiologiste-Santé%20Publique-1a6b3c?style=for-the-badge&logo=heart&logoColor=white)](mailto:degbevikossijohn@gmail.com)
-[![Master](https://img.shields.io/badge/Master%201-Suivi%20Évaluation-2dba6e?style=for-the-badge&logo=graduation-cap&logoColor=white)](#formations)
+[![Master](https://img.shields.io/badge/Master%202-Suivi%20Évaluation-2dba6e?style=for-the-badge&logo=graduation-cap&logoColor=white)](#formations)
 [![Disponible](https://img.shields.io/badge/Disponible-Opportunités%20Internationales-orange?style=for-the-badge&logo=globe&logoColor=white)](#contact)
 
 <br/>
