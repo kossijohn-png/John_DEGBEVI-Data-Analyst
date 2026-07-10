@@ -177,7 +177,7 @@ Mon parcours professionnel est ponctué par une expérience en tant qu’assista
 
 | Diplôme / Certification | Institution | Année |
 |------------------------|-------------|-------|
-| **Master 1** – Suivi Évaluation & Management de Projet | ENSPD – Université de Parakou | 2024-2025 |
+| **Master 2** – Suivi Évaluation & Management de Projet | ENSPD – Université de Parakou | 2025-2026 |
 | **Certificat** – Suivi et Évaluation d'un projet de développement | MOOC Campus AFD | Mai 2023 |
 | **Manipulation de données avec R** | Fan Club R – Université de Parakou | 2023-2024 |
 | **Licence Professionnelle** – Santé Publique & Surveillance Épidémiologique | ENATSE – Université de Parakou | 2014-2018 |
